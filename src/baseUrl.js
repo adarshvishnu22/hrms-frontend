@@ -8,7 +8,7 @@ const axiosInstance = axios.create({
 
 //local api
 
-  baseURL: 'http://localhost:4005/hrms_api', 
+  baseURL: 'https://hrms-backend-r7ob.onrender.com', 
 
   headers: {
     'Content-Type': 'application/json',
